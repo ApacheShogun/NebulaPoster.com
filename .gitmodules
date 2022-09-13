@@ -1,0 +1,6 @@
+[submodule "nebula-poster"]
+	path = nebula-poster
+	url = https://github.com/ApacheShogun/nebula-poster.git
+[submodule "nebula-poster-server"]
+	path = nebula-poster-server
+	url = https://github.com/ApacheShogun/nebula-poster-server.git
